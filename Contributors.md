@@ -3,6 +3,7 @@
 - [Shiva Yadav](https://github.com/shiva-yadav-ds)
 - [gopaljilab](https://github.com/gopaljilab)
 - [LiBei1123](https://github.com/LiBei1123)
+- [Harika777](https://github.com/Harika-para2004)
 - Shreya Mane (GitHub: shreyamane1526)
 - [Steve Harper](https://github.com/sjharper79)
 - [zaka](https://github.com/oraichezakariyae)
